@@ -60,7 +60,7 @@ Softmax / Sigmoid activation for final output
 
 ⚙️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/your-username/Real_Time_Face_Mask_Detection.git
+git clone https://github.com/Aman1238-Aman/Real_Time_Face_Mask_Detection-main.git
 
 2️⃣ Navigate to the project directory
 cd Real_Time_Face_Mask_Detection
